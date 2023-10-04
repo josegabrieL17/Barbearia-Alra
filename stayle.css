@@ -135,3 +135,7 @@ body{
 .centro{
 	align-items: center;
 }
+/* css da pagina principal*/
+.banner{
+	width: 100%;
+}
