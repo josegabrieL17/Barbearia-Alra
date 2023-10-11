@@ -139,3 +139,62 @@ body{
 .banner{
 	width: 100%;
 }
+/* TABELA */
+.enviar:hover{
+	background-color: tan;
+	color: white;
+	transform: scale(1.15);
+}
+
+.enviar:active{
+	transform: scale(1);
+	background-color: antiquewhite;
+	color: black;
+}
+
+table{
+	margin: 20px 0 40px;
+}
+
+thead{
+	background-color: antiquewhite;
+	color: black;
+	font-weight: bold;
+}
+
+td{
+	border: 2px solid black;
+	padding: 15px 10px;
+}
+
+/*CSS da pagina principal*/
+.banner{
+	width: 100%;
+}
+
+.titulo-centralizado{
+	text-align: center;
+	font-size: 2em;
+	margin: 1em 0 1em;
+}
+.principal p{
+	margin: 0 0 1em;
+}
+
+.principal strong{
+	font-weight: bold;
+}
+
+.principal em{
+	font-style: italic;
+}
+
+.imagembeneficios{
+	width: 60%;
+}
+
+.utensilhos{
+	width: 150px;
+	float: left;
+	margin: 0 20px 20px 0;
+}
